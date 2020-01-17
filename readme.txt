@@ -40,3 +40,5 @@ another for inserting into B+ tree.
 ● When a tree is full it is merged and appropriate merge function is present.
 ● A display function is present that will traverse the linked list and display
 all the trees.
+
+By Rishi Raj Singh
